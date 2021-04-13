@@ -2,8 +2,9 @@
 # yarn lockfile v1
 
 
-"@clipisode/theme@file:../theme":
+"@clipisode/theme@github:clipisode/theme#wip":
   version "0.0.1"
+  resolved "https://codeload.github.com/clipisode/theme/tar.gz/bf47a2cd8d88f02739074bc90d15ac6716943adc"
 
 "@types/lodash@^4.14.168":
   version "4.14.168"

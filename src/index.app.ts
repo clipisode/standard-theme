@@ -925,5 +925,5 @@ export const getElements: GetElementsFn = (
         },
       ],
     },
-  ];
+  ] as any;
 };

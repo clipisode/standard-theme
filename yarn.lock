@@ -4,7 +4,7 @@
 
 "@clipisode/theme@github:clipisode/theme#wip":
   version "0.0.1"
-  resolved "https://codeload.github.com/clipisode/theme/tar.gz/bf47a2cd8d88f02739074bc90d15ac6716943adc"
+  resolved "https://codeload.github.com/clipisode/theme/tar.gz/5cda6f1300806ad724abf48a51d6ee253e43da47"
 
 "@types/lodash@^4.14.168":
   version "4.14.168"

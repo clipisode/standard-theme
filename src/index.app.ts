@@ -5,7 +5,11 @@ export const getVideoComposition: GetVideoCompositionFn = () => {
   let foo = _.chunk([1, 2, 3], 2);
 
   return {
-    videos: [{ type: "clip", clipId: "" }],
+    videos: [
+      { type: "clip", clipId: "" },
+      { type: "clip", clipId: "2907842408240724" },
+    ],
+    backgroundColor: "#000000",
   };
 };
 

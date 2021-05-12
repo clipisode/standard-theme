@@ -5,7 +5,7 @@
     "build": "tsc"
   },
   "dependencies": {
-    "@clipisode/theme": "github:clipisode/theme#wip"
+    "@clipisode/theme": "^0.0.1"
   },
   "devDependencies": {
     "@types/lodash": "^4.14.168",

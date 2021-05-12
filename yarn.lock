@@ -2,9 +2,10 @@
 # yarn lockfile v1
 
 
-"@clipisode/theme@github:clipisode/theme#wip":
+"@clipisode/theme@^0.0.1":
   version "0.0.1"
-  resolved "https://codeload.github.com/clipisode/theme/tar.gz/cc33d71e161ee779e0bffd64376a9e2d8c16c1d7"
+  resolved "https://registry.yarnpkg.com/@clipisode/theme/-/theme-0.0.1.tgz#3c13854dae77a62271a609cb2f861893002ce5bf"
+  integrity sha512-5jNUQ6tcxuGr4S4gKEYJ1eQYIaHatDS7JrjxKlSeAdlD/XIU4gOOBzVlTeNnWDRGGpQ+XWN1pZKrhBmsWpqJgA==
 
 "@types/lodash@^4.14.168":
   version "4.14.168"

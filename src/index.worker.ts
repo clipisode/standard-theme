@@ -5,5 +5,6 @@ export const getCustomDataDescriptors: GetCustomDataDescriptorsFn = () => {
 };
 
 export const siteData: SiteData = {
+  customCssKey: "site.css",
   brandColor: "#0066bb",
 };

@@ -6,8 +6,4 @@ export const getCustomDataDescriptors: GetCustomDataDescriptorsFn = () => {
 
 export const siteData: SiteData = {
   brandColor: "#0066bb",
-  introScreen: {},
-  nameScreen: {},
-  emailScreen: {},
-  closedScreen: {},
 };

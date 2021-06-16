@@ -60,6 +60,7 @@ export const getElements: GetElementsFn = (answer) => {
       },
     },
     {
+      // reply video ending frame fix
       type: "frame",
       name: "frame.reply.last",
       startAt: 2 + answer.reply.clip.duration - 0.5,
@@ -88,6 +89,7 @@ export const getElements: GetElementsFn = (answer) => {
       },
     },
     {
+      // answer video ending frame fix
       type: "frame",
       name: "frame.answer.last",
       startAt:

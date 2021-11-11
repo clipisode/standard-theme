@@ -27,7 +27,7 @@ export function combinationGradient(
 
   return {
     type: "gradient",
-    name: "question.fade",
+    name: "gradient.name-background",
     startAt,
     endAt,
     props: {
@@ -40,14 +40,14 @@ export function combinationGradient(
         endAt: startAt + (firstClipShort ? 0.4 : 0.8),
         field: "alpha",
         from: 0,
-        to: 0,
+        to: 1,
       },
       {
         startAt: endAt - (finalClipShort ? 0.4 : 0.8),
         endAt,
         field: "alpha",
-        from: 0,
-        to: 1,
+        from: 1,
+        to: 0,
       },
     ],
   };
